@@ -8,7 +8,7 @@ Bu proje, [TheMealDB API](https://www.themealdb.com/api.php/) kullanarak çeşit
 - [Özellikler](#özellikler)
 - [Proje Çalıştırma](#proje-çalıştırma)
 - [Kullanım](#kullanım)
-- [Ekran Görüntüleri](#ekran-görüntüleri)
+- [Ekran Görüntüleri](#screenshots)
 
 ## Proje Hakkında
 
@@ -40,11 +40,6 @@ Bu uygulama, yemek tariflerinin keşfedilmesini ve detaylı tarif bilgilerini g�
 
 Uygulamayı çalıştırdıktan sonra ana sayfada çeşitli yemekler listelenecektir. Bir yemeğe tıkladığınızda, yemeğin detaylı tarif bilgilerini içeren bir sayfaya yönlendirileceksiniz. Ana sayfada bulunan arama kısmından dilediğiniz yemek tariflerini aratabilirsiniz.
 
-## Ekran Görüntüleri
-
-![mobile-app-1](https://github.com/halilnergiz/mobile-development-assignment/assets/73109882/5c19440f-231e-4506-8f3d-6fd29c01db97)
-![mobile-app-2](https://github.com/halilnergiz/mobile-development-assignment/assets/73109882/a5b3b7f4-dc18-44f3-bec6-fec3e17ffd04)
-![mobile-app-3](https://github.com/halilnergiz/mobile-development-assignment/assets/73109882/3a69cf1c-8898-4e84-b4b3-c1fd2b0e69c0)
 
 # Recipe Application
 
@@ -91,5 +86,7 @@ After running the application, various meals will be listed on the main page. By
 ## Screenshots
 
 ![mobile-app-1](https://github.com/halilnergiz/mobile-development-assignment/assets/73109882/5c19440f-231e-4506-8f3d-6fd29c01db97)
+
 ![mobile-app-2](https://github.com/halilnergiz/mobile-development-assignment/assets/73109882/a5b3b7f4-dc18-44f3-bec6-fec3e17ffd04)
+
 ![mobile-app-3](https://github.com/halilnergiz/mobile-development-assignment/assets/73109882/3a69cf1c-8898-4e84-b4b3-c1fd2b0e69c0)
